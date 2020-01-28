@@ -9,7 +9,7 @@ import java.util.Scanner;
  * that reads a problem from a file
  * and outputs True if it is solvable 
  * and False if it is not.
- * Author: Myriam Kapon dai17093
+ * Author: Myriam Kapon 
  * 23/6/2019
  */
 
